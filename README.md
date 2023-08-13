@@ -13,4 +13,5 @@ The next addr block is expanded as
 <img width="565" alt="Address generator blocl" src="https://github.com/BhAvYa010/Single-cycle-datapath-riscv-minimips/assets/96838352/100eac90-5f81-4a17-acc0-c081d2c4e70e">
 After building all the blocks, each block provides desired output based on the control signals provided to it, this work is done by control block on the basis of opcode  and fn fetched from insrtruction
 <img width="487" alt="Control signal" src="https://github.com/BhAvYa010/Single-cycle-datapath-riscv-minimips/assets/96838352/6b1acbb8-8f98-4736-bd6e-38c0453db869">
+
 Finally the simulation is performed by storing instruction in code memory, register values in regfile and data in data memory. 
